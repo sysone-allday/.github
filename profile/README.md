@@ -7,7 +7,8 @@
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![JavaFX](https://img.shields.io/badge/JavaFX-21-brightgreen.svg)
 
-## 📖 프로젝트 소개
+
+## 📖 프로젝트 소개 [발표자료](https://jbnuackr-my.sharepoint.com/:p:/g/personal/zkzkasd_jbnu_ac_kr/IQDvGmkKCfqoTKDtiw0mv05ZAVWCQvCYc3z8aS5mJeLyNgg?e=PF6fFe)
 
 Minico는 사용자들이 가상의 미니룸에서 다양한 게임과 소셜 기능을 즐길 수 있는 데스크톱 애플리케이션입니다.
 JavaFX를 기반으로 제작되었으며, 친구와의 소통, 게임, 다이어리 작성 등 다양한 기능을 제공합니다.
